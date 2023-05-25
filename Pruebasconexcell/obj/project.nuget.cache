@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMMzjxMFB7hHG6KeBE2tIcjzlMT/2jtkbIa6GhKypml9uqFgvXd0sfP6DxbU4NZRzMD8wHRRlWaZJEbTjcCr0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvar\\source\\repos\\Pruebasconexcell\\Pruebasconexcell\\tablitas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvar\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

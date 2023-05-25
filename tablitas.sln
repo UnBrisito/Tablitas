@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tablitas", "Pruebasconexcell\tablitas.csproj", "{97D97456-1086-4209-9DFC-52C45465E467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D97456-1086-4209-9DFC-52C45465E467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D97456-1086-4209-9DFC-52C45465E467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D97456-1086-4209-9DFC-52C45465E467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D97456-1086-4209-9DFC-52C45465E467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B6654EE-36DD-43F5-A77B-524DC2831A85}
+	EndGlobalSection
+EndGlobal
